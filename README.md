@@ -1,6 +1,7 @@
-# DeepSeekChatApp
+# ChatApp
 
-DeepSeekChatApp是一个基于Windows Forms的桌面应用程序，它利用DeepSeek API提供智能聊天功能。这个应用程序允许用户与AI助手进行文本对话，并提供了清晰的用户界面和实用的功能。
+因为好奇，就调用了其实是调用了kimi的api做ChatApp
+主要是一个基于Windows Forms的桌面应用程序，它利用 API提供智能聊天功能。这个应用程序允许用户与AI助手进行文本对话，并提供了清晰的用户界面和实用的功能。
 
 ## 功能特点
 
