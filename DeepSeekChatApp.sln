@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSeekChatApp", "DeepSeekChatApp\DeepSeekChatApp.csproj", "{BBB15DA1-F662-4F9F-8DC3-141E88FBA3A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "练习", "练习", "{A4DB1D32-DE3B-4D1E-858D-5A0A8E905818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习", "练习\练习.csproj", "{B3B23A3A-B6C8-42D8-BEE3-9BACC42E3C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB15DA1-F662-4F9F-8DC3-141E88FBA3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB15DA1-F662-4F9F-8DC3-141E88FBA3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB15DA1-F662-4F9F-8DC3-141E88FBA3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB15DA1-F662-4F9F-8DC3-141E88FBA3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B23A3A-B6C8-42D8-BEE3-9BACC42E3C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B23A3A-B6C8-42D8-BEE3-9BACC42E3C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B23A3A-B6C8-42D8-BEE3-9BACC42E3C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B23A3A-B6C8-42D8-BEE3-9BACC42E3C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27009D4-9199-42C3-8E1B-108FE786807A}
+	EndGlobalSection
+EndGlobal

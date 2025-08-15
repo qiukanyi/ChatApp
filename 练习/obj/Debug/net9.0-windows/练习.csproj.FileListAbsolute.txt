@@ -1,0 +1,14 @@
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\bin\Debug\net9.0-windows\练习.exe
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\bin\Debug\net9.0-windows\练习.deps.json
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\bin\Debug\net9.0-windows\练习.runtimeconfig.json
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\bin\Debug\net9.0-windows\练习.dll
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\bin\Debug\net9.0-windows\练习.pdb
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.AssemblyInfoInputs.cache
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.AssemblyInfo.cs
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.csproj.CoreCompileInputs.cache
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.dll
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\refint\练习.dll
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.pdb
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\练习.genruntimeconfig.cache
+D:\2024年上半年作业\chart\DeepSeekChatApp\练习\obj\Debug\net9.0-windows\ref\练习.dll
